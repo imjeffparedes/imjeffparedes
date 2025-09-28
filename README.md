@@ -110,3 +110,4 @@ I believe theory is meaningless without experience. Over the years, I’ve learn
 - Email: [imjeffparedes@gmail.com](mailto:imjeffparedes@gmail.com)
 
 ---
+![Profile views](https://komarev.com/ghpvc/?username=imjeffparedes&style=for-the-badge)
