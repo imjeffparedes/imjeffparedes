@@ -55,10 +55,10 @@ I believe theory is meaningless without experience. Over the years, I’ve learn
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" alt="PowerShell" width="40" height="40"/>
 </p>
 
-- **Backend & Data:** Python, NodeJs, C# (.NET Core, ASP.NET), Redshift, Postgres, MySQL, TSQL, PLpgSQL
+- **Backend & Data:** Python, NodeJs, C# (.NET Core, ASP.NET), Redshift, Postgres, MySQL, DynamoDB
 - **Cloud & Infrastructure:** AWS, Terraform (HCL), Kubernetes, ECS, Datadog, CI/CD (Buildkite, Makefile, Shell)
-- **Frontend:** JavaScript (React, Node.js), SCSS, HTML, CSS
-- **DevOps & Security:** Open Policy Agent, Kyverno, SIEM/ELK, AppSec, IAM, incident management
+- **Frontend:** JavaScript (React, Node.js), HTML, CSS
+- **DevOps & Security:** SIEM/ELK, AppSec, IAM, incident management
 - **Other:** MacOS, Linux, PowerShell, Cordova, CodeIgniter
 
 ---
